@@ -1,3 +1,5 @@
 # NotePadPlus_Gcode_LanguageFile
 Notepad++ Gcode Language Theme (UDL)
 ![image](https://github.com/user-attachments/assets/c8595f87-f9d0-4712-a5f7-6357f8b3ce54)
+
+Place File in "C:\Users\%USERNAME%\AppData\Roaming\Notepad++\userDefineLangs"

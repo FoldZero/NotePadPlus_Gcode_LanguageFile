@@ -5,3 +5,8 @@ Notepad++ Gcode Language Theme (UDL)
 Place File [N++_GCODE_+DarkMode.xml]  in "C:\Users\\%USERNAME%\AppData\Roaming\Notepad++\userDefineLangs"
 
 Supports DarkMode, which was the main reason for its creation  another one on github did not.
+
+This then appears in the selection menu
+
+![image](https://github.com/user-attachments/assets/71363b06-17b2-4dc2-8095-6184f3124a74)
+
